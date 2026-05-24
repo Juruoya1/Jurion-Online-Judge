@@ -1,0 +1,1 @@
+/* FTP support disabled */
