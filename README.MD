@@ -105,7 +105,7 @@ sudo cp ./httpd.conf /etc/httpd.conf
 ```
 运行服务器
 ```bash
-cd /mnt/hdd/jurionoj/html
+cd ./html
 # Start Server
 sudo killall cern-httpd 2>/dev/null
 sudo /usr/local/bin/cern-httpd -p 8080 &
@@ -308,7 +308,7 @@ sudo cp ./httpd.conf /etc/httpd.conf
 **Run the server**
 
 ```bash
-cd /mnt/hdd/jurionoj/html
+cd ./html
 # Start Server
 sudo killall cern-httpd 2>/dev/null
 sudo /usr/local/bin/cern-httpd -p 8080 &
