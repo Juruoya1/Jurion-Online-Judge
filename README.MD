@@ -1,7 +1,7 @@
 # **_Jurion Online Judge_**
 JurionOnlineJudge以下简称JurionOJ，是一个计算机在线测评系统。兼容强，跨平台，多功能，模块化，轻量化。
 
-访问我们的主站→[这里](jurionoj.cc.cd/index.cgi)
+访问我们的主站→[这里](http://jurionoj.cc.cd/index.cgi)
 
 相较于其他轻量OJ，JurionOJ具有博客、私信、主页等社交功能，同时支持比赛与判题作业。
 
@@ -139,7 +139,7 @@ SPDX许可证标识符：MIT
 
 JurionOnlineJudge (hereinafter referred to as JurionOJ) is a computer-based online judging system. It is highly compatible, cross-platform, multifunctional, modular, and lightweight.
 
-Visit our main site → [Here](jurionoj.cc.cd/index.cgi)
+Visit our main site → [Here](http://jurionoj.cc.cd/index.cgi)
 
 Compared to other lightweight OJs, JurionOJ features social functions such as blogs, private messages, and personal profiles, while also supporting contests and homework judging.
 
