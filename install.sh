@@ -6,7 +6,7 @@
 #Install Cern-httpd & Config
 sudo apt install ./cern-httpd_3.0A-1_armhf.deb
 sudo cern-httpd -v
-sudo sed -i "s|/mnt/hdd/jurionoj/cgi-bin|$(pwd)/cgi-bin|" ./httpd.conf
+sudo sed -i "s|./cgi-bin|$(pwd)/cgi-bin|" ./httpd.conf
 sudo cp /etc/httpd.conf /etc/httpd.conf.bak
 sudo cp ./httpd.conf /etc/httpd.conf
 
