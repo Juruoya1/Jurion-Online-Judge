@@ -16,7 +16,7 @@ sudo find ./ -type f -exec chmod 644 {} \;
 find ./ -type f \( -name "*.cgi" -o -name "*.pl" -o -name "*.py" -o -name "*.sh" \) -exec chmod 755 {} \;
 
 #Jurion Online Judge Starter
-cd /mnt/hdd/jurionoj/html
+cd ./html
 # Start Server
 sudo killall cern-httpd 2>/dev/null
 sudo /usr/local/bin/cern-httpd -p 8080 &
